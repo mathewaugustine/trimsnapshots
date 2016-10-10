@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 
 # Before running script
-# Run 'aws configure' on command line and setup aws_access_key and aws_secret_key  and Default region name
+# Run 'aws configure' on command line and setup aws_access_key and aws_secret_key
 
 
 parser = argparse.ArgumentParser(description='Trim AWS snapshots')
